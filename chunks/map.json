@@ -1,0 +1,104 @@
+{
+	"packs": [
+		{
+			"name": "casual",
+			"maps": [
+				"ar_baggage",
+				"ar_monastery",
+				"ar_shoots",
+				"de_bank",
+				"de_lake",
+				"de_safehouse",
+				"de_stmarc",
+				"de_sugarcane",
+				"de_shortdust",
+				"de_shorttrain"
+			]
+		},
+		{
+			"name": "competitive",
+			"maps": [
+				"de_dust2",
+				"de_inferno",
+				"de_nuke",
+				"de_overpass",
+				"de_cache",
+				"de_train"
+			]
+		},
+		{
+			"name": "hostage",
+			"maps": [
+				"cs_office",
+				"cs_italy",
+				"cs_assault",
+				"cs_militia"
+			]
+		},
+		{
+			"name": "reserve",
+			"maps": [
+				"de_cbble",
+				"de_vertigo",
+				"de_canals",
+				"de_aztec",
+				"de_dust"
+			]
+		},
+		{
+			"name": "surf",
+			"maps": [
+				"surf_beginner_go",
+				"surf_how2surf",
+				"surf_kitsune_fix",
+				"surf_mesa_fix",
+				"surf_summit",
+				"surf_tendies",
+				"surf_utopia_njv"
+			]
+		},
+		{
+			"name": "surf2",
+			"maps": [
+				"surf_andromeda",
+				"surf_boreas"
+			]
+		}
+	],
+	"maps": [
+		"ar_baggage",
+		"ar_monastery",
+		"ar_shoots",
+		"cs_assault",
+		"cs_italy",
+		"cs_militia",
+		"cs_office",
+		"de_aztec",
+		"de_bank",
+		"de_cache",
+		"de_canals",
+		"de_cbble",
+		"de_dust",
+		"de_dust2",
+		"de_inferno",
+		"de_lake",
+		"de_nuke",
+		"de_overpass",
+		"de_safehouse",
+		"de_shortdust",
+		"de_shorttrain",
+		"de_stmarc",
+		"de_sugarcane",
+		"de_train",
+		"de_vertigo",
+		"surf_andromeda",
+		"surf_beginner_go",
+		"surf_boreas",
+		"surf_how2surf",
+		"surf_kitsune_fix",
+		"surf_mesa_fix",
+		"surf_summit",
+		"surf_tendies",
+		"surf_utopia_njv"
+	]
+}
