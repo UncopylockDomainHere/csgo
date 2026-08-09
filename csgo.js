@@ -1634,7 +1634,7 @@ function abort(what) {
 }
 var wasmBinaryFile;
 function findWasmBinary() {
-    return locateFile("https://files.catbox.moe/0b5hkx.wasm")
+    return locateFile("https://litter.catbox.moe/49ntzk1e0re38dpo.wasm")
 }
 function getBinarySync(file) {
     if (file == wasmBinaryFile && wasmBinary) {
